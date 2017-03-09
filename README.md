@@ -24,7 +24,7 @@ PhoneGap is not a “native application development” framework, even though it
 
 Using PhoneGap one can access the following device features (click on links to access the fully implemented sample code repositories)
 
-* [Battery Status](https://github.com/techdining/PhoneGap-BatteryStatusSample)
+* [Battery Status](https://github.com/sreekarsudireddy/PhoneGap-BatteryStatusSample)
 * [Camera]()
 * [Contacts]()
 * [Device Info]()
